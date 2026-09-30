@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=60&lines=Hey%2C+I'm+Akshay+Khichi+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Competitive+Programmer;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Building+scalable+backends+%26+resilient+systems+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=60&lines=Hey%2C+I'm+Akshay+Khichi+%F0%9F%91%8B;Full-Stack+Engineer+%7C+Competitive+Programmer;React+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,22 +31,22 @@
 ## 💫 About Me
 
 🎓 **Education**
-Computer Science & Engineering Undergrad at Maulana Azad National Institute of Technology (MANIT), Bhopal[cite: 1].
+Computer Science & Engineering Undergrad at Maulana Azad National Institute of Technology (MANIT), Bhopal.
 
 🔭 **Working On**
-Building high-throughput full-stack platforms, optimizing backend pipelines, and solving complex algorithmic challenges on LeetCode & CodeChef[cite: 1].
+Full-stack engineering and solving complex algorithmic challenges on LeetCode & CodeChef.
 
 🤝 **Looking to Collaborate On**
-Production-grade backend systems (Node.js, Express, MongoDB, Supabase), API design, and distributed architectures[cite: 1].
+Production-grade systems using Node.js, Express, MongoDB, and Supabase.
 
 🌱 **Currently Learning & Exploring**
-System design, advanced caching strategies, concurrency control, and high-performance competitive programming in C++[cite: 1].
+System design, caching architectures, and high-performance competitive programming in C++.
 
 💬 **Ask Me About**
-Backend Architecture · RESTful APIs · JWT & RBAC Auth · React.js · Data Structures & Algorithms in C++ · Rate Limiting[cite: 1].
+RESTful APIs · JWT & RBAC Auth · React.js · Data Structures & Algorithms in C++.
 
 ⚡ **Milestones**
-Solved 900+ algorithmic problems on LeetCode (Peak Rating: 1832)[cite: 1], Global Rank 57 on CodeChef Starters 202[cite: 1], and UniHack Finalist[cite: 1].
+Solved 900+ algorithmic problems on LeetCode (Peak Rating: 1832), Global Rank 57 on CodeChef Starters 202, and UniHack Finalist.
 
 </div>
 
