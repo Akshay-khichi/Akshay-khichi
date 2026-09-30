@@ -34,7 +34,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:10B981,100:0D1117&height=2" alt="" />
 
-### 01 / OVERVIEW
+### 1 OVERVIEW
 
 - **Education:** B.Tech in Computer Science & Engineering at **MANIT Bhopal**
 - **Focus:** Full-stack product engineering, resilient REST architectures, and parallel LLM pipelines
@@ -45,7 +45,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:10B981,100:0D1117&height=2" alt="" />
 
-### 02 / TECH STACK
+### 2 TECH STACK
 
 <div align="center">
   <br/>
@@ -55,7 +55,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:10B981,100:0D1117&height=2" alt="" />
 
-### 03 / SELECTED WORKS
+### 3 SELECTED WORKS
 
 <table>
   <tr>
@@ -84,9 +84,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:10B981,100:0D1117&height=2" alt="" />
 
-### 04 / TELEMETRY & STATS
+### 4 TELEMETRY & STATS
 
 <div align="center">
+
+<a href="https://leetcode.com/u/Akshay_Khichi/">
+  <img src="https://leetcard.jacoblin.cool/Akshay_Khichi?theme=dark&ext=heatmap&border=0" width="84%" alt="LeetCode Heatmap" />
+</a>
+
+<br/><br/>
 
 <img height="175" src="https://github-readme-stats.shion.dev/api?username=Akshay-khichi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=E5E7EB&count_private=true&include_all_commits=true" alt="GitHub stats" />
 <img height="175" src="https://streak-stats.demolab.com/?user=Akshay-khichi&theme=dark&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakNum=FFFFFF&sideNums=E5E7EB&currStreakLabel=10B981&sideLabels=9CA3AF&dates=6B7280" alt="GitHub streak" />
