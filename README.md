@@ -3,7 +3,7 @@
 <br/>
 
 <!-- Live Status Pill -->
-<img src="https://img.shields.io/badge/%E2%97%8F%20AVAILABLE%20FOR%20SDE%20ROLES-0D1117?style=for-the-badge&labelColor=0D1117&color=10B981" alt="Available for work" />
+<img src="https://img.shields.io/badge/AVAILABLE%20FOR%20SDE%20ROLES-0D1117?style=for-the-badge&labelColor=0D1117&color=10B981" alt="Available for work" />
 
 <!-- Kinetic Typography Hero -->
 <a href="https://github.com/Akshay-khichi">
@@ -32,10 +32,9 @@
 
 <br/>
 
-<!-- Animated Neon Pulse Divider -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:10B981,100:0D1117&height=2" alt="" />
 
-### ⚡ 01 / OVERVIEW
+### 01 / OVERVIEW
 
 - **Education:** B.Tech in Computer Science & Engineering at **MANIT Bhopal**
 - **Focus:** Full-stack product engineering, resilient REST architectures, and parallel LLM pipelines
@@ -46,7 +45,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:10B981,100:0D1117&height=2" alt="" />
 
-### 🛠️ 02 / TECH STACK
+### 02 / TECH STACK
 
 <div align="center">
   <br/>
@@ -56,12 +55,12 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:10B981,100:0D1117&height=2" alt="" />
 
-### 🚀 03 / SELECTED WORKS
+### 03 / SELECTED WORKS
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Study Companion</h3>
+      <h3>Study Companion</h3>
       <p><i>Full-stack AI study platform turning uploaded PDFs into interactive learning modules.</i></p>
       <ul>
         <li>Processes <b>10MB PDFs</b> through Supabase Storage and <code>pdf-parse</code></li>
@@ -71,7 +70,7 @@
       <p><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,supabase&theme=dark&perline=5" height="34" alt="Tech stack" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 Shree Karn Clinic</h3>
+      <h3>Shree Karn Clinic</h3>
       <p><i>Production healthcare appointment and patient records management system.</i></p>
       <ul>
         <li><b>14 REST endpoints</b> orchestrating a <b>4-state booking lifecycle</b></li>
@@ -85,7 +84,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:10B981,100:0D1117&height=2" alt="" />
 
-### 📊 04 / TELEMETRY & STATS
+### 04 / TELEMETRY & STATS
 
 <div align="center">
 
@@ -94,12 +93,6 @@
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/Akshay_Khichi/">
-  <img src="https://leetcard.jacoblin.cool/Akshay_Khichi?theme=dark&font=Space%20Grotesk&ext=contest&border=0" width="84%" alt="LeetCode Dynamic Stats" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshay-khichi&bg_color=0D1117&color=9CA3AF&line=10B981&point=FFFFFF&area=true&area_color=10B981&hide_border=true&custom_title=REALTIME%20COMMIT%20MATRIX" width="94%" alt="Contribution activity graph" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Akshay-khichi&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=E5E7EB&include_all_commits=true&count_private=true" alt="Top Languages" />
 
 </div>
