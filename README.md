@@ -61,7 +61,13 @@ B.Tech in Computer Science & Engineering at **Maulana Azad National Institute of
 <br/><br/>
 
 <a href="https://leetcode.com/u/Akshay_Khichi/">
-  <img src="https://leetcard.jacoblin.cool/Akshay_Khichi?theme=dark&font=JetBrains%20Mono&ext=contest,heatmap&border=0" alt="LeetCode stats card" width="95%" />
+  <img src="https://leetcard.jacoblin.cool/Akshay_Khichi?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" alt="LeetCode submission heatmap" width="85%" />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Akshay_Khichi/">
+  <img src="https://leetcard.jacoblin.cool/Akshay_Khichi?theme=dark&font=JetBrains%20Mono&ext=contest&border=0" alt="LeetCode contest rating history" width="85%" />
 </a>
 </div>
 
@@ -75,15 +81,10 @@ B.Tech in Computer Science & Engineering at **Maulana Azad National Institute of
 Full-stack AI study platform that turns uploaded PDFs into study material.
 
 - Processes **10MB PDFs** through Supabase Storage and `pdf-parse`
-- **Parallel LLM generations** with `Promise.all` and exponential backoff
+- **Parallel LLM generations** (Groq API) with `Promise.all` and exponential backoff
 - **16 rate-limited REST endpoints**
 
-<img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=A78BFA" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=nodedotjs&logoColor=A78BFA" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-0D0D0D?style=flat-square&logo=express&logoColor=A78BFA" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-0D0D0D?style=flat-square&logo=mongodb&logoColor=A78BFA" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Groq%20API-0D0D0D?style=flat-square&logoColor=A78BFA" alt="Groq API" />
-<img src="https://img.shields.io/badge/Supabase-0D0D0D?style=flat-square&logo=supabase&logoColor=A78BFA" alt="Supabase" />
+<p><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,supabase&theme=dark&perline=5" height="52" alt="React, Node.js, Express, MongoDB, Supabase" /></p>
 
 <br/>
 
@@ -94,12 +95,7 @@ Healthcare appointment and records portal.
 - Strict **RBAC** using JWT and bcryptjs salted hashing
 - **15-minute lockout** after 5 failed login attempts
 
-<img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=A78BFA" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=nodedotjs&logoColor=A78BFA" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-0D0D0D?style=flat-square&logo=express&logoColor=A78BFA" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-0D0D0D?style=flat-square&logo=mongodb&logoColor=A78BFA" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-0D0D0D?style=flat-square&logo=tailwindcss&logoColor=A78BFA" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Vercel-0D0D0D?style=flat-square&logo=vercel&logoColor=A78BFA" alt="Vercel" />
+<p><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vercel&theme=dark&perline=6" height="52" alt="React, Node.js, Express, MongoDB, Tailwind CSS, Vercel" /></p>
 
 [Frontend repo](https://github.com/Akshay-khichi/shree-karn-clinic-frontend) · [Backend repo](https://github.com/Akshay-khichi/shree-karn-clinic-backend.)
 
